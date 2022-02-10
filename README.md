@@ -19,4 +19,5 @@ function getColumn(url, columnNumber)
  * @param col {number} - the desired column (the first column is 0)
  * @return column {lsit} - the desired column as a list
  */
+ 
 function getCol(matrix, col)
